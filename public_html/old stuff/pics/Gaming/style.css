@@ -1,0 +1,26 @@
+@import url(https://fonts.googleapis.com/css?family=Montserrat);
+@import url(https://fonts.googleapis.com/css?family=Orbitron);
+@import url(https://fonts.googleapis.com/css?family=Lato);
+@import url(https://fonts.googleapis.com/css?family=Enriqueta);
+@import url(https://fonts.googleapis.com/css?family=Raleway);
+body { 
+    background-image:url('background.png');
+	background-attachment: fixed;}
+	a:hover { 
+    background-color: #cccccc;
+}
+.montserrat{
+		font-family: Montserrat;
+}
+.Orbitron{ 
+		font-family: Orbitron;
+}
+.Lato {
+		font-family: Lato;
+}
+.Enriqueta{
+		font-family: Enriqueta;
+}
+.Raleway{
+		font-family: Raleway;
+}
